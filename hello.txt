@@ -1,1 +1,2 @@
 Hello
+Hello from Lab 02 - Software Engineering
